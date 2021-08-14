@@ -1,0 +1,126 @@
+
+
+.about-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    border-radius: 20px;
+    padding:  30px 30px 30px 30px;
+    background-color: #272727;
+}
+
+
+.main-body{
+    background-color: #272727;
+}
+
+
+.box{
+    color: #747474;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 500px;
+    color: #747474;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px 0px 0px 0px ;
+}
+
+.about-me{
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+
+.basic-inf{
+    width: 300px;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+
+.basic{
+    width: 150px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+
+.info-box{
+    display: flex;
+    flex-direction: row;
+}
+
+.box-basic-inf{
+
+    color: #747474;
+    padding-left: 50px;
+    padding-right: 20px;
+    color: #747474;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px 0px 0px 0px ;
+}
+
+.box-basic{
+    color: #747474; 
+    padding-right: 20px;
+    color: #747474;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px 0px 0px px ;
+}
+
+.title{
+    color: #FFE400;
+    font-weight: bold;
+    font-size: 29px;
+}
+
+.box-about-inf{
+    padding-top: 0.009%;
+}
+
+.date{
+    font-weight: bold;
+}
+
+
+.card-div{
+    justify-content: space-around;
+    font-family: 'Poppins', sans-serif;
+    color: #747474;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    border-radius: 20px;
+    padding:  30px 30px 30px 30px;
+    background-color: #272727;
+}
+
+
+.desc-div{
+    padding: 10px 10px 10px 70px;
+    border-radius: 10px;
+    background-color: #272727;
+    width: 800px;
+    justify-content: right;
+}
+
+.work-exp-div{
+    padding-top: 20px;
+    margin: 5px auto;
+    padding: absolute;
+    text-align: center;
+    color: #272727;
+    justify-content: center;
+    width: 250px;
+    background-color: #FFE400;
+    justify-content: left;
+    border-radius: 10px;
+}
+
+.job-title{
+    margin: 5px auto;
+    color:#FF652F;
+}
+
+.duties{
+    color: #14A76C;
+}
