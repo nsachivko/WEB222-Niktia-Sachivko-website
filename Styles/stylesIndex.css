@@ -54,6 +54,8 @@
 }
 
 #button-resume{
+    margin-bottom: 10px;
+    margin-top: 10px;
     margin-right: 10px;
     border-radius: 10px;
     border-color: #FF652F;
@@ -71,6 +73,8 @@
 }
 
 #button-contactme{
+    margin-bottom: 10px;
+    margin-top: 10px;
     border-radius: 10px;
     border-color: #14A76C;
     color: #14A76C;
