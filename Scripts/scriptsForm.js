@@ -42,8 +42,8 @@ function formChecker() {
 
     var regex_name = /\d/;
     var name = form.fullname.value;
-
-    if (regex_name.test(name) || name == "") {
+    var fullname = name.split(' ');
+    if (regex_name.test(name) || name == "" || fullname.length != 2) {
         name_valid = false;
         invalid_name.style.borderColor = "#FF652F";
         form.fullname.value = "";
